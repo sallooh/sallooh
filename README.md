@@ -25,11 +25,11 @@ I am a Computer Science student at INSA Rennes, specializing in Cybersecurity. I
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
+<!--
 ## 📈 GitHub Stats
 
 ![ssallahh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssallahh&show_icons=true&theme=radical)
-
+-->
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/salah-al-bakri-893251234)
