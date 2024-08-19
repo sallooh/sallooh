@@ -32,7 +32,7 @@ I am a Computer Science student at INSA Rennes, specializing in Cybersecurity. I
 -->
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/salah-al-bakri-893251234)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/salah-al-bakri-893251234](https://www.linkedin.com/in/salah-al-bakri-893251234/))
 
 
 <!--
