@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Science student at INSA Rennes, specializing in Cybersecurity. I'm passionate about the world of technology and constantly eager to learn new things and solve challenging problems. My interests span across various domains, including programming, network security, and software development.
+I am a Computer Science student at INSA Rennes, specializing in Cybersecurity. I'm passionate about computer science and constantly eager to learn new things and solve challenging problems. My interests span across various domains, including programming, network security, and software development.
 
 - 🔭 I’m currently pursuing a Master’s degree in Computer Science with a specialization in Cybersecurity at INSA Rennes.
 - 🌱 I’m actively seeking an internship opportunity where I can apply my knowledge and gain practical experience in the field of cybersecurity.
