@@ -7,7 +7,6 @@ I am a Computer Science student at INSA Rennes, specializing in Cybersecurity. I
 - 🔭 I’m currently pursuing a Master’s degree in Computer Science with a specialization in Cybersecurity at INSA Rennes.
 - 🌱 I’m actively seeking an internship opportunity where I can apply my knowledge and gain practical experience in the field of cybersecurity.
 - 👯 I’m looking to collaborate on open-source projects related to security, software development, or other technology-driven initiatives.
-- ⚡ Fun fact: I’m passionate about sports, particularly tennis and gym workouts. I also enjoy playing video games in my free time.
 
 ## 🛠️ Technologies & Tools
 
