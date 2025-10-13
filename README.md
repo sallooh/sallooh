@@ -4,10 +4,6 @@
 
 I am a Computer Science student at INSA Rennes, specializing in Cybersecurity. I'm passionate about computer science and constantly eager to learn new things and solve challenging problems. My interests span across various domains, including programming, network security, and software development.
 
-- 🔭 I’m currently pursuing a Master’s degree in Computer Science with a specialization in Cybersecurity at INSA Rennes.
-- 🌱 I’m actively seeking an internship opportunity where I can apply my knowledge and gain practical experience in the field of cybersecurity.
-- 👯 I’m looking to collaborate on open-source projects related to security, software development, or other technology-driven initiatives.
-
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,6 +25,3 @@ I am a Computer Science student at INSA Rennes, specializing in Cybersecurity. I
 
 ![ssallahh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sallooh&show_icons=true&theme=radical)
 -->
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/salah-al-bakri-893251234](https://www.linkedin.com/in/salah-al-bakri-893251234/))
